@@ -1,9 +1,11 @@
 '''
-Name: Dashboard for gymmoe
+Name: Dashboard for gym progression
 Author: Thijs Kok
 e-mail: thijs-kok@live.nl
 Version: 0.x
 Date: 21-03-22
+
+Why: To better my coding skills in python using dataframes and OOP.
 
 DATA: Gathered from the microsoft forms we filled in during our gym times.
 
